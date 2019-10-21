@@ -30,4 +30,4 @@ Program returns a string containing a sequence of moves (see input).
 
 ## Algorithm
 
-No elaborate algorithms were applied. A simple brute force with some slight improvements. The worst case will take `1.27 * 10^21 s` (`18^input-length combinations`) time to solve. The proposed improvements reduce this time to `3.3 * 10^19 s` (`15^input-length combinations`), which is still too far from an appropriate result.
+No elaborate algorithms were applied. A simple brute force with some slight improvements. The worst case will take `1.27 * 10^21 s` time to solve`(18^input-length combinations)`. The proposed improvements reduce this time to `3.3 * 10^19 s` `(15^input-length combinations)`, which is still too far from an appropriate result.
