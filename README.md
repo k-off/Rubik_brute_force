@@ -22,7 +22,7 @@ where letters stay for both side and rotation notations:
     ' - rotate side counter-clockwize
     2 - rotate side 180 degrees clockwize
 
-Also, `random amount_of_moves` generates a random sequence with user-defined length (1 - 20 moves).
+Also, program wih argument `"random amount_of_moves"` generates a random sequence with user-defined length (1 - 20 moves).
 
 ## Output
 
