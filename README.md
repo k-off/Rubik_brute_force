@@ -19,7 +19,7 @@ where letters stay for both side and rotation notations:
     `L` - left side (rotate left side 90 degrees clockwize)
     `D` - down side (rotate down side 90 degrees clockwize)
 
-    `'` - rotate side **counter**-clockwize
+    `'` - rotate side _counter-clockwize_
     `2` - rotate side 180 degrees clockwize
 
 Also, `random amount_of_moves` generates a random sequence with user-defined length (1 - 20 moves).
