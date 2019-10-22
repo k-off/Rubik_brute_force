@@ -42,7 +42,7 @@ class Rubik :
         if (s[0] == 'B') :
             self.B_rotate(amount, axes);
 
-    def print(self) :
+    def print_rubik(self) :
         print(self.F);
         print(self.R);
         print(self.B);
